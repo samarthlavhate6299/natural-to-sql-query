@@ -1,1 +1,0 @@
-# natural-to-sql-query
